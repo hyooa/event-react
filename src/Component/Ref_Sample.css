@@ -1,0 +1,9 @@
+.success {
+    background-color: lightgreen;
+}
+.failure {
+    background-color: lightcoral;
+}
+input {
+    background-color: blanchedalmond;
+}
